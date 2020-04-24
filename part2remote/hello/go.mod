@@ -1,4 +1,4 @@
-module github.com/ktmd/gomoduletest/hello
+module hello
 
 go 1.14
 
