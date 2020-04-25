@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/prassee/hello"
+	"github.com/ktmd/gomoduletest/part2remote/hello"
 )
 
 func main() {
